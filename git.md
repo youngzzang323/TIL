@@ -23,3 +23,7 @@
  - git log -1 : -1 최근 한줄만 보기
  - git log -1--oneline : 최근한줄 한줄로 보기
 
+3 . git remote add  origin https://github.com/youngzzang323/TIL.git : 깃 origin 이라는 이름으로 주소저장
+    - git remote -v 원격저장소 이름 url정보확인
+    - git push origin(원격저장소이름) main(브랜치이름)
+    - git remote rm origins : 원격저장소 내용 삭제
