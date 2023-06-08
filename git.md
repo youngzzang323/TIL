@@ -66,4 +66,4 @@
 - git 저장소가 아닌 곳에서 (main표기가 없는) 입력해주면 된다.
 - 바탕화면에 fork 받은 폴더가 있는데 이것을 vs code로 열어서 코드 작성 진행.
 - 작성이 끝나면 add, commit, git push origin main 진행
-- Github에 들어가서 Pull Request 만든다.
+- Github에 들어가서 Pull Request 만든다..
