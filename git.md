@@ -9,7 +9,7 @@
 1. git init - git을 사용한다(저장소 초기화)
  - touch : 파일만들기
  - git status : git 상태
- - git add . -모든파일 깃에등록?
+ - git add . - 모든파일 스테이지로 등록?
  - git commit -m '메시지' : 커밋
 
  - git log : 커밋 기록보기
